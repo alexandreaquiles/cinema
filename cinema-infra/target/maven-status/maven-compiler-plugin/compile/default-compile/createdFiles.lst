@@ -1,0 +1,5 @@
+br/com/caelum/cinema/core/infra/dao/SessaoDao.class
+br/com/caelum/cinema/core/infra/dao/LugarDao.class
+br/com/caelum/cinema/infra/dao/FilmeDao.class
+br/com/caelum/cinema/core/infra/dao/SalaDao.class
+module-info.class
