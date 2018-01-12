@@ -1,3 +1,4 @@
+/home/alexandre/eclipse-workspace/cinema/cinema-infra/src/main/java/br/com/caelum/cinema/infra/rest/RestImdbClient.java
 /home/alexandre/eclipse-workspace/cinema/cinema-infra/src/main/java/br/com/caelum/cinema/infra/dao/SessaoDao.java
 /home/alexandre/eclipse-workspace/cinema/cinema-infra/src/main/java/br/com/caelum/cinema/infra/dao/SalaDao.java
 /home/alexandre/eclipse-workspace/cinema/cinema-infra/src/main/java/br/com/caelum/cinema/infra/dao/LugarDao.java
